@@ -26,9 +26,15 @@
 
 I've been on computers since I was a kid — breaking things, fixing them, and figuring out how everything works under the hood. That curiosity never went away; it just turned into code.
 
-Now I'm an **ISE student** and **Software Dev Intern @ Zysk Technologies**, building full-stack apps and diving deep into **AI Engineering** — LLMs, RAG, Agentic AI — because I believe the most impactful products will live at the intersection of AI and great software engineering.
+Now I'm an **ISE student** and **Software Dev Intern @ Zysk Technologies**. I believe the most impactful products will live at the intersection of AI and great software engineering. 
 
-I'm the type who starts a side project at midnight because an idea won't let me sleep. 
+**🕸️ What I'm currently up to:**
+- 🧠 Diving deep into **AI Engineering** (LLMs, RAG, Agentic AI)
+- 🚀 Building scalable full-stack applications with modern web architectures
+- 🌙 Starting side projects at midnight because an idea won't let me sleep
+- 💡 Learning and experimenting with anything that feels "cool" in tech
+
+<br/>
 
 > *Always learning. Always building. Always curious.* 🕸️
 
