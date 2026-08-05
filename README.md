@@ -1,14 +1,12 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🕷️ ARYAN SHETTAR — GITHUB PROFILE README                     -->
-<!-- Spider-Man Themed · Red #E23636 · Blue #1F3A93                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🕷️ ARYAN SHETTAR — Spider-Man Themed README -->
+<!-- Red #E23636 · Blue #1F3A93 -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:8B0000,100:1F3A93&height=220&text=Aryan%20Shettar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=16&descAlignY=62&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Products+That+Matter;Exploring+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&random=false&width=520&lines=With+great+code+comes+great+responsibility+%F0%9F%95%B8%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%95%B7%EF%B8%8F;Your+friendly+neighborhood+developer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,18 +22,31 @@
 
 ## 🕷️ About Me
 
-<img align="right" alt="Spider-Man" width="280" src="./assets/spiderman.png"/>
+<img align="right" alt="Spider-Man" width="220" src="./assets/spiderman.png"/>
 
-- 🎓 **Information Science Engineering** Student
-- 💼 Software Development Intern @ **Zysk Technologies**
-- 🤖 Exploring **AI Engineering, LLMs, RAG & Agentic AI**
-- 🔧 Passionate about **Backend Development & System Design**
-- 🔭 Currently building **AI-powered SaaS Products**
-- 🌱 Learning **System Design & Cloud Architecture**
-- 📱 Built a **250K+ follower** Instagram community
-- 🕸️ *"With great power comes great responsibility."*
+I've been on computers since I was a kid — breaking things, fixing them, and figuring out how everything works under the hood. That curiosity never went away; it just turned into code.
+
+Now I'm an **ISE student** and **Software Dev Intern at Zysk Technologies**, building full-stack apps and diving deep into **AI Engineering** — LLMs, RAG, Agentic AI — because I believe the most impactful products will live at the intersection of AI and great software engineering.
+
+I'm the type who starts a side project at midnight because an idea won't let me sleep. That same energy helped me build a **250K+ follower** community from scratch.
+
+> *Always learning. Always building. Always curious.* 🕸️
 
 <br clear="both"/>
+
+---
+
+## 🎧 Now Playing
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=ApXoWvfEYVU">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Sunflower-Post%20Malone%20%26%20Swae%20Lee-E23636?style=for-the-badge&logo=youtube-music&logoColor=white&labelColor=0d1117" alt="Now Playing"/>
+</a>
+
+<sub>🕷️ Spider-Man: Into the Spider-Verse OST · Click to play</sub>
+
+</div>
 
 ---
 
@@ -43,35 +54,13 @@
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,tailwind,html,nodejs,express,mongodb,postgres,tensorflow,docker,git,vscode&perline=8" />
 
 </div>
 
 ---
 
-## 🕸️ Featured Projects
+## 🕸️ What I've Built
 
 <div align="center">
 
@@ -103,14 +92,6 @@ AI Chat Platform powered by Gemini
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aryanshettar007&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%" />
-
-</div>
-
-<br/>
-
 🥇 **Top 10 Finalist** — Nasiko Buildathon @ Microsoft Bengaluru  
 🏅 **Top 10** — SJBIT Hackathon  
 📱 Built a **250K+ follower** Instagram community  
@@ -119,17 +100,15 @@ AI Chat Platform powered by Gemini
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryanshettar007&show_icons=true&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_color=1F3A93&count_private=true&hide_border=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanshettar007&layout=compact&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_color=1F3A93&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryanshettar007&show_icons=true&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&cache_seconds=86400" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Aryanshettar007&background=0d1117&border=1F3A9300&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=E23636&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Aryanshettar007&background=0d1117&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=E23636&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" />
 
 </div>
 
@@ -149,11 +128,12 @@ AI Chat Platform powered by Gemini
 
 ---
 
-## 📈 Contribution Graph
+## 🏙️ 3D Contributions
 
 <div align="center">
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanshettar007&bg_color=0d1117&color=E23636&line=1F3A93&point=E23636&area_color=1F3A93&area=true&hide_border=true&custom_title=Aryan%27s%20Contribution%20Graph)](https://github.com/Aryanshettar007)
+<!-- This image is auto-generated by the GitHub-Profile-3D-Contrib workflow -->
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
