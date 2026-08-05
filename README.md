@@ -1,20 +1,20 @@
 <!-- 🕷️ ARYAN SHETTAR — Spider-Man Themed README -->
-<!-- Red #E23636 · Blue #1F3A93 -->
+<!-- Palette: #4F6793, #9A1316, #223057, #E72020 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:8B0000,100:1F3A93&height=220&text=Aryan%20Shettar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=16&descAlignY=62&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E72020,33:9A1316,66:223057,100:4F6793&height=220&text=Aryan%20Shettar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=16&descAlignY=62&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&random=false&width=750&lines=With+great+code+comes+great+responsibility+%F0%9F%95%B8%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%95%B7%EF%B8%8F;Your+friendly+neighborhood+developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E72020&center=true&vCenter=true&random=false&width=750&lines=With+great+code+comes+great+responsibility+%F0%9F%95%B8%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%95%B7%EF%B8%8F;Your+friendly+neighborhood+developer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://aryanshettar.tech"><img src="https://img.shields.io/badge/-Portfolio-E23636?style=flat-square&logo=safari&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Aryanshettar007"><img src="https://img.shields.io/badge/-GitHub-1F3A93?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/aryan-shettar/"><img src="https://img.shields.io/badge/-LinkedIn-E23636?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:aryanshettar007@gmail.com"><img src="https://img.shields.io/badge/-Email-1F3A93?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://aryanshettar.tech"><img src="https://img.shields.io/badge/-Portfolio-E72020?style=flat-square&logo=safari&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Aryanshettar007"><img src="https://img.shields.io/badge/-GitHub-223057?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/aryan-shettar/"><img src="https://img.shields.io/badge/-LinkedIn-E72020?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:aryanshettar007@gmail.com"><img src="https://img.shields.io/badge/-Email-223057?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -121,4 +121,4 @@ Now I'm an **ISE student** and **Software Dev Intern @ Zysk Technologies**. I be
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:8B0000,100:1F3A93&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E72020,33:9A1316,66:223057,100:4F6793&height=120&section=footer" width="100%"/>
