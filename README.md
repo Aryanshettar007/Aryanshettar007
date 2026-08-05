@@ -64,23 +64,32 @@ I'm the type who starts a side project at midnight because an idea won't let me 
 
 ## 🕸️ What I've Built
 
-<div align="center">
-
-<a href="https://github.com/Aryanshettar007/GoViral-Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=GoViral-Pro&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
-</a>
-<a href="https://github.com/Aryanshettar007/MediFind-Impact-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=MediFind-Impact-X&title_color=1F3A93&icon_color=1F3A93&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
-</a>
-
-<a href="https://github.com/Aryanshettar007/LegalEase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=LegalEase&title_color=1F3A93&icon_color=1F3A93&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
-</a>
-<a href="https://github.com/Aryanshettar007/QUICKGPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=QUICKGPT&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
-</a>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Aryanshettar007/GoViral-Pro">🚀 GoViral Pro</a></h3>
+      <p>AI influencer platform with ML pricing</p>
+      <code>React</code> <code>Node.js</code> <code>Flask</code>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Aryanshettar007/MediFind-Impact-X">🏥 MediFind</a></h3>
+      <p>AI medical assistant & pharmacy finder</p>
+      <code>Python</code> <code>Machine Learning</code> <code>OCR</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Aryanshettar007/LegalEase">⚖️ LegalEase</a></h3>
+      <p>AI Legal Document Assistant</p>
+      <code>RAG</code> <code>MERN Stack</code> <code>JWT</code>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Aryanshettar007/QUICKGPT">💬 QuickGPT</a></h3>
+      <p>AI Chat Platform powered by Gemini</p>
+      <code>MERN</code> <code>Gemini API</code> <code>Stripe</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
