@@ -19,27 +19,17 @@
 
 <!-- ═══════════════ PROFILE VIEWS ═══════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=Aryanshettar007&color=E23636&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aryanshettar007&color=E23636&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
+<!-- ═══════════════ SOCIAL LINKS — CLEAN & MINIMAL ═══════════════ -->
 
-<a href="https://aryanshettar.tech">
-  <img src="https://img.shields.io/badge/Portfolio-aryanshettar.tech-E23636?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/Aryanshettar007">
-  <img src="https://img.shields.io/badge/GitHub-Follow-1F3A93?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aryan-shettar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-E23636?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/aryanshettar/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-1F3A93?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="mailto:aryanshettar007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-E23636?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://aryanshettar.tech"><img src="https://img.shields.io/badge/-Portfolio-E23636?style=flat&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Aryanshettar007"><img src="https://img.shields.io/badge/-GitHub-1F3A93?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aryan-shettar/"><img src="https://img.shields.io/badge/-LinkedIn-E23636?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/aryanshettar/"><img src="https://img.shields.io/badge/-LeetCode-1F3A93?style=flat&logo=LeetCode&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="mailto:aryanshettar007@gmail.com"><img src="https://img.shields.io/badge/-Email-E23636?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
@@ -48,7 +38,8 @@
 
 ## 🕷️ About Me
 
-<img align="right" alt="Spider-Man Dev Setup" width="300" src="./assets/spiderman-dev.png"/>
+<!-- 👇 Replace this image with your own Spider-Man pic: save it as ./assets/spiderman.png -->
+<img align="right" alt="Spider-Man" width="300" src="./assets/spiderman.png"/>
 
 ```yaml
 name: Aryan Shettar
@@ -122,21 +113,65 @@ motto: "With great power comes great responsibility."
 ## 🕸️ Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Aryanshettar007/GoViral-Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=GoViral-Pro&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_color=1F3A93" width="49%" />
-</a>
-<a href="https://github.com/Aryanshettar007/MediFind-Impact-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=MediFind-Impact-X&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_color=1F3A93" width="49%" />
-</a>
-
-<a href="https://github.com/Aryanshettar007/LegalEase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=LegalEase&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_color=1F3A93" width="49%" />
-</a>
-<a href="https://github.com/Aryanshettar007/QUICKGPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=QUICKGPT&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_color=1F3A93" width="49%" />
-</a>
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🚀 GoViral Pro</h3>
+<p align="center">AI-powered influencer marketing platform</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1F3A93?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-E23636?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-1F3A93?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-E23636?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-1F3A93?style=flat-square&logo=socket.io&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aryanshettar007/GoViral-Pro"><img src="https://img.shields.io/badge/View_Project_→-E23636?style=flat-square&logoColor=white"/></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🏥 MediFind</h3>
+<p align="center">AI-powered medical assistant with OCR</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OCR-E23636?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps-1F3A93?style=flat-square&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML-E23636?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1F3A93?style=flat-square&logo=python&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aryanshettar007/MediFind-Impact-X"><img src="https://img.shields.io/badge/View_Project_→-1F3A93?style=flat-square&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">⚖️ LegalEase</h3>
+<p align="center">AI Legal Document Assistant</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-1F3A93?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-E23636?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-1F3A93?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-E23636?style=flat-square&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aryanshettar007/LegalEase"><img src="https://img.shields.io/badge/View_Project_→-E23636?style=flat-square&logoColor=white"/></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">💬 QuickGPT</h3>
+<p align="center">AI Chat Platform</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-E23636?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-1F3A93?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-E23636?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ImageKit-1F3A93?style=flat-square&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aryanshettar007/QUICKGPT"><img src="https://img.shields.io/badge/View_Project_→-1F3A93?style=flat-square&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
@@ -194,8 +229,6 @@ motto: "With great power comes great responsibility."
   <img alt="Snake animation" src="https://github.com/Aryanshettar007/Aryanshettar007/blob/output/github-snake.svg" />
 </picture>
 
-> 🕷️ **First-time setup:** Push the `.github/workflows/snake.yml` file to your profile repo, then go to **Actions → Generate Snake Animation → Run workflow** to generate the snake for the first time.
-
 </div>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
@@ -216,44 +249,18 @@ motto: "With great power comes great responsibility."
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblinclark.com/aryanshettar?theme=dark&font=Fira%20Code&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aryanshettar?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/aryanshettar/)
 
 </div>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🕷️ Connect With Me
-
 <div align="center">
 
-<a href="https://aryanshettar.tech">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-aryanshettar.tech-E23636?style=flat-square&logoColor=white" height="28"/>
-</a>
-<a href="https://www.linkedin.com/in/aryan-shettar/">
-  <img src="https://img.shields.io/badge/LinkedIn-aryan--shettar-1F3A93?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-</a>
-<a href="https://github.com/Aryanshettar007">
-  <img src="https://img.shields.io/badge/GitHub-Aryanshettar007-E23636?style=flat-square&logo=github&logoColor=white" height="28"/>
-</a>
-<a href="https://leetcode.com/u/aryanshettar/">
-  <img src="https://img.shields.io/badge/LeetCode-aryanshettar-1F3A93?style=flat-square&logo=leetcode&logoColor=white" height="28"/>
-</a>
-<a href="mailto:aryanshettar007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aryanshettar007-E23636?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-</a>
-
-</div>
+### 🕷️ *"With great power comes great responsibility."* — Uncle Ben
 
 <br/>
-
-<!-- ═══════════════ SPIDER-MAN QUOTE FOOTER ═══════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🕷️_\"With_great_power_comes_great_responsibility.\"-Uncle_Ben-E23636?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
 
 ⭐ **Thanks for swinging by!** If you liked what you see, consider giving a ⭐ to my repos!
 
