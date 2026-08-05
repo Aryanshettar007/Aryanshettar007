@@ -24,7 +24,7 @@
 
 <img align="right" alt="Spider-Man" width="220" src="./assets/spiderman.png"/>
 
-I've been on computers since I was a kid — breaking things, fixing them, and figuring out how everything works under the hood. That curiosity never went away; it just turned into code.
+I've been on computers since I was a kid - breaking things, fixing them, and figuring out how everything works under the hood. That curiosity never went away; it just turned into code.
 
 Now I'm an **ISE student** and **Software Dev Intern @ Zysk Technologies**. I believe the most impactful products will live at the intersection of AI and great software engineering. 
 
