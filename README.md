@@ -18,10 +18,6 @@
 
 </div>
 
-<div align="center">
-  <img src="./assets/dynamic-web.gif" width="100%" alt="3D Rotating Spider Web"/>
-</div>
-
 ---
 
 ## 🕷️ About Me
@@ -83,41 +79,6 @@ I'm the type who starts a side project at midnight because an idea won't let me 
 <a href="https://github.com/Aryanshettar007/QUICKGPT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=QUICKGPT&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
 </a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryanshettar007&show_icons=true&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&cache_seconds=86400" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Aryanshettar007&background=0d1117&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=E23636&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 The Live Commit Web
-
-<div align="center">
-
-<!-- This web is auto-generated daily by a GitHub Action based on my actual repos! -->
-<img src="./assets/commit-web.svg" width="100%" alt="Live Commit Web"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanshettar007&bg_color=0d1117&color=E23636&line=1F3A93&point=E23636&area_color=1F3A93&area=true&hide_border=true&custom_title=Aryan%27s%20Contribution%20Graph)](https://github.com/Aryanshettar007)
 
 </div>
 
