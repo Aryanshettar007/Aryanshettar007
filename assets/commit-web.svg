@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%">
+    <rect width="800" height="500" fill="#0d1117" rx="10"/>
+    
+    <style>
+        .commit-line {
+            fill: none;
+            stroke-linecap: round;
+            animation: pulse 3s infinite alternate;
+        }
+        .repo-node {
+            fill: #E23636;
+            stroke: #0d1117;
+            stroke-width: 2;
+        }
+        .repo-text {
+            font-family: monospace;
+            font-size: 14px;
+            fill: #c9d1d9;
+            text-anchor: middle;
+        }
+        @keyframes pulse {
+            0% { filter: drop-shadow(0 0 2px #E23636); opacity: 0.7; }
+            100% { filter: drop-shadow(0 0 10px #E23636); opacity: 1; }
+        }
+    </style>
+    
+<circle cx="400.0" cy="250.0" r="15" fill="#1F3A93" />
+<text x="400.0" y="255.0" font-family="monospace" font-weight="bold" font-size="12" fill="white" text-anchor="middle">ME</text>
+<line class="commit-line" x1="400.0" y1="250.0" x2="600.0" y2="250.0" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="600.0" cy="250.0" r="8" />
+<text class="repo-text" x="600.0" y="273.0">Aryanshettar007</text>
+<line x1="600.0" y1="250.0" x2="541.4213562373095" y2="391.4213562373095" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="541.4213562373095" y2="391.4213562373095" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="541.4213562373095" cy="391.4213562373095" r="8" />
+<text class="repo-text" x="541.4213562373095" y="414.4213562373095">AutoNews</text>
+<line x1="541.4213562373095" y1="391.4213562373095" x2="400.0" y2="450.0" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="400.0" y2="450.0" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="400.0" cy="450.0" r="8" />
+<text class="repo-text" x="400.0" y="473.0">WebLock</text>
+<line x1="400.0" y1="450.0" x2="258.5786437626905" y2="391.4213562373095" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="258.5786437626905" y2="391.4213562373095" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="258.5786437626905" cy="391.4213562373095" r="8" />
+<text class="repo-text" x="258.5786437626905" y="414.4213562373095">Civora</text>
+<line x1="258.5786437626905" y1="391.4213562373095" x2="200.0" y2="250.00000000000003" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="200.0" y2="250.00000000000003" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="200.0" cy="250.00000000000003" r="8" />
+<text class="repo-text" x="200.0" y="273.0">idea-laravel</text>
+<line x1="200.0" y1="250.00000000000003" x2="258.5786437626905" y2="108.57864376269052" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="258.5786437626905" y2="108.57864376269052" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="258.5786437626905" cy="108.57864376269052" r="8" />
+<text class="repo-text" x="258.5786437626905" y="92.57864376269052">Portfolio</text>
+<line x1="258.5786437626905" y1="108.57864376269052" x2="399.99999999999994" y2="50.0" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="399.99999999999994" y2="50.0" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="399.99999999999994" cy="50.0" r="8" />
+<text class="repo-text" x="399.99999999999994" y="34.0">QUICKGPT</text>
+<line x1="399.99999999999994" y1="50.0" x2="541.4213562373095" y2="108.57864376269046" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+<line class="commit-line" x1="400.0" y1="250.0" x2="541.4213562373095" y2="108.57864376269046" stroke="#E23636" stroke-width="1" />
+<circle class="repo-node" cx="541.4213562373095" cy="108.57864376269046" r="8" />
+<text class="repo-text" x="541.4213562373095" y="92.57864376269046">CredLens</text>
+<line x1="541.4213562373095" y1="108.57864376269046" x2="600.0" y2="250.0" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1" stroke-dasharray="5,5" />
+</svg>

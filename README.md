@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,50:8B0000,100:1F3A93&height=220&text=Aryan%20Shettar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=16&descAlignY=62&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&random=false&width=520&lines=With+great+code+comes+great+responsibility+%F0%9F%95%B8%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%95%B7%EF%B8%8F;Your+friendly+neighborhood+developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E23636&center=true&vCenter=true&random=false&width=750&lines=With+great+code+comes+great+responsibility+%F0%9F%95%B8%EF%B8%8F;Building+the+web%2C+one+commit+at+a+time+%F0%9F%95%B7%EF%B8%8F;Your+friendly+neighborhood+developer+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,6 +18,10 @@
 
 </div>
 
+<div align="center">
+  <img src="./assets/spider-web.svg" width="100%" alt="Interactive Neural Web"/>
+</div>
+
 ---
 
 ## 🕷️ About Me
@@ -26,9 +30,9 @@
 
 I've been on computers since I was a kid — breaking things, fixing them, and figuring out how everything works under the hood. That curiosity never went away; it just turned into code.
 
-Now I'm an **ISE student** and **Software Dev Intern at Zysk Technologies**, building full-stack apps and diving deep into **AI Engineering** — LLMs, RAG, Agentic AI — because I believe the most impactful products will live at the intersection of AI and great software engineering.
+Now I'm an **ISE student** and **Software Dev Intern @ Zysk Technologies**, building full-stack apps and diving deep into **AI Engineering** — LLMs, RAG, Agentic AI — because I believe the most impactful products will live at the intersection of AI and great software engineering.
 
-I'm the type who starts a side project at midnight because an idea won't let me sleep. That same energy helped me build a **250K+ follower** community from scratch.
+I'm the type who starts a side project at midnight because an idea won't let me sleep. 
 
 > *Always learning. Always building. Always curious.* 🕸️
 
@@ -40,11 +44,13 @@ I'm the type who starts a side project at midnight because an idea won't let me 
 
 <div align="center">
 
+<!-- 👉 USER INSTRUCTION: To make the song play DIRECTLY inside the README, you need to upload an MP4 video of the song. Replace this entire <a> tag block with the URL GitHub gives you after uploading an MP4 into an issue comment. -->
+
 <a href="https://www.youtube.com/watch?v=ApXoWvfEYVU">
   <img src="https://img.shields.io/badge/%E2%96%B6%20Sunflower-Post%20Malone%20%26%20Swae%20Lee-E23636?style=for-the-badge&logo=youtube-music&logoColor=white&labelColor=0d1117" alt="Now Playing"/>
 </a>
 
-<sub>🕷️ Spider-Man: Into the Spider-Verse OST · Click to play</sub>
+<sub>🕷️ Spider-Man: Into the Spider-Verse OST · (GitHub blocks direct audio playing, click to listen!)</sub>
 
 </div>
 
@@ -64,39 +70,21 @@ I'm the type who starts a side project at midnight because an idea won't let me 
 
 <div align="center">
 
-### [🚀 GoViral Pro](https://github.com/Aryanshettar007/GoViral-Pro)
-AI-powered influencer marketing platform with ML-based pricing  
-`React` `Node.js` `Flask` `Stripe` `Socket.io` `TailwindCSS`
+<a href="https://github.com/Aryanshettar007/GoViral-Pro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=GoViral-Pro&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
+</a>
+<a href="https://github.com/Aryanshettar007/MediFind-Impact-X">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=MediFind-Impact-X&title_color=1F3A93&icon_color=1F3A93&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
+</a>
 
-<br/>
-
-### [🏥 MediFind](https://github.com/Aryanshettar007/MediFind-Impact-X)
-AI-powered medical assistant with smart pharmacy recommendation  
-`OCR` `Google Maps API` `Machine Learning` `Python`
-
-<br/>
-
-### [⚖️ LegalEase](https://github.com/Aryanshettar007/LegalEase)
-AI Legal Document Assistant with intelligent analysis  
-`RAG` `OCR` `MERN Stack` `JWT Auth`
-
-<br/>
-
-### [💬 QuickGPT](https://github.com/Aryanshettar007/QUICKGPT)
-AI Chat Platform powered by Gemini  
-`MERN Stack` `Gemini API` `Stripe` `ImageKit`
+<a href="https://github.com/Aryanshettar007/LegalEase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=LegalEase&title_color=1F3A93&icon_color=1F3A93&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
+</a>
+<a href="https://github.com/Aryanshettar007/QUICKGPT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanshettar007&repo=QUICKGPT&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&show_icons=true" width="48%" />
+</a>
 
 </div>
-
----
-
-## 🏆 Achievements
-
-🥇 **Top 10 Finalist** — Nasiko Buildathon @ Microsoft Bengaluru  
-🏅 **Top 10** — SJBIT Hackathon  
-📱 Built a **250K+ follower** Instagram community  
-📜 **NPTEL Machine Learning** — Elite Certificate  
-🤖 **Oracle AI Foundations** Certified  
 
 ---
 
@@ -114,6 +102,27 @@ AI Chat Platform powered by Gemini
 
 ---
 
+## 🌐 The Live Commit Web
+
+<div align="center">
+
+<!-- This web is auto-generated daily by a GitHub Action based on my actual repos! -->
+<img src="./assets/commit-web.svg" width="100%" alt="Live Commit Web"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryanshettar007&bg_color=0d1117&color=E23636&line=1F3A93&point=E23636&area_color=1F3A93&area=true&hide_border=true&custom_title=Aryan%27s%20Contribution%20Graph)](https://github.com/Aryanshettar007)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -123,17 +132,6 @@ AI Chat Platform powered by Gemini
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryanshettar007/Aryanshettar007/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Aryanshettar007/Aryanshettar007/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 🏙️ 3D Contributions
-
-<div align="center">
-
-<!-- This image is auto-generated by the GitHub-Profile-3D-Contrib workflow -->
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
