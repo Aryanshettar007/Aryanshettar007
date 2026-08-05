@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/spider-web.svg" width="100%" alt="Interactive Neural Web"/>
+  <img src="./assets/dynamic-web.gif" width="100%" alt="3D Rotating Spider Web"/>
 </div>
 
 ---
